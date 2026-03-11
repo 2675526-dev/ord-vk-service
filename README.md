@@ -1,0 +1,1 @@
+# ord-vk-service
